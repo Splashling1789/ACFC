@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>ACFC</AssemblyName>
+    <Authors>Splashling</Authors>
+    <Description>Asistente para calcular fórmulas comunes</Description>
+    <Copyright>Copyright © Splashling 2020. Todos los derechos reservados</Copyright>
+    <StartupObject></StartupObject>
+    <Version>0.5.0.0</Version>
+    <NeutralLanguage>es-ES</NeutralLanguage>
+    <PackageIcon>ACFC.png</PackageIcon>
+    <ApplicationIcon>ACFC.ico</ApplicationIcon>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="E:\Users\Javier Albero Ros\Escritorio\ACFC.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
