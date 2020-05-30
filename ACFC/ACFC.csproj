@@ -8,7 +8,7 @@
     <Description>Asistente para calcular fórmulas comunes</Description>
     <Copyright>Copyright © Splashling 2020. Todos los derechos reservados</Copyright>
     <StartupObject></StartupObject>
-    <Version>0.5.0.0</Version>
+    <Version>0.6.0.0</Version>
     <NeutralLanguage>es-ES</NeutralLanguage>
     <PackageIcon>ACFC.png</PackageIcon>
     <ApplicationIcon>ACFC.ico</ApplicationIcon>
