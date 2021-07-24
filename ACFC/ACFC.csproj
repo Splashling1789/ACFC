@@ -7,19 +7,12 @@
     <Authors>Splashling</Authors>
     <Description>Asistente para calcular fórmulas comunes</Description>
     <Copyright>Copyright © Splashling 2020. Todos los derechos reservados</Copyright>
-    <StartupObject></StartupObject>
-    <Version>0.6.0.0</Version>
+    <StartupObject>ACFC.Program</StartupObject>
+    <Version>0.6.0.1</Version>
     <NeutralLanguage>es-ES</NeutralLanguage>
     <PackageIcon>ACFC.png</PackageIcon>
     <ApplicationIcon>ACFC.ico</ApplicationIcon>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
-
-  <ItemGroup>
-    <None Include="E:\Users\Javier Albero Ros\Escritorio\ACFC.png">
-      <Pack>True</Pack>
-      <PackagePath></PackagePath>
-    </None>
-  </ItemGroup>
 
 </Project>
